@@ -30,8 +30,3 @@ This project demonstrates Git and GitHub.
 Hi This is changes in my Github file
 
 
-
-
-
-1 git change 
-
